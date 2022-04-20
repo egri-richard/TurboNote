@@ -1,1 +1,7 @@
-# TurboNote
+# Backend (Közös)
+
+# Desktop
+
+# Web
+
+# Dekstop
