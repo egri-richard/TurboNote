@@ -4,5 +4,5 @@ https://github.com/BatoBalint/TNoteBackend
 https://github.com/BatoBalint/TNote_Desktop
 # Web
 https://github.com/kekesibence/tnote-web
-# Dekstop
+# Mobil
 https://github.com/egri-richard/TNoteApp
